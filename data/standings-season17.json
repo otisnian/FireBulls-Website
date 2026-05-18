@@ -1,0 +1,73 @@
+{
+  "season": 17,
+  "title": "第17屆聯賽",
+  "subtitle": "2024-2025 賽季 最終戰績",
+  "standings": {
+    "B1": [
+      { "rank": 1, "team": "安穆", "games": 18, "wins": 16, "losses": 1, "ties": 1, "points": 33 },
+      { "rank": 2, "team": "紅不讓", "games": 18, "wins": 14, "losses": 4, "ties": 0, "points": 28 },
+      { "rank": 3, "team": "鵬運鷹架", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 4, "team": "猿人B", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 5, "team": "玉山", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 6, "team": "達陽", "games": 18, "wins": 9, "losses": 9, "ties": 0, "points": 18 },
+      { "rank": 7, "team": "萬興火牛", "games": 18, "wins": 8, "losses": 8, "ties": 2, "points": 18 },
+      { "rank": 8, "team": "熱血", "games": 18, "wins": 6, "losses": 12, "ties": 0, "points": 12 },
+      { "rank": 9, "team": "攻城獅", "games": 18, "wins": 5, "losses": 12, "ties": 1, "points": 11 },
+      { "rank": 10, "team": "神川龍", "games": 18, "wins": 4, "losses": 13, "ties": 1, "points": 9 }
+    ],
+    "B2": [
+      { "rank": 1, "team": "班姆行銷", "games": 18, "wins": 14, "losses": 4, "ties": 0, "points": 28 },
+      { "rank": 2, "team": "阿跨面", "games": 18, "wins": 13, "losses": 5, "ties": 0, "points": 26 },
+      { "rank": 3, "team": "冰研A", "games": 18, "wins": 13, "losses": 5, "ties": 0, "points": 26 },
+      { "rank": 4, "team": "星辰", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 5, "team": "翔陽虎", "games": 18, "wins": 9, "losses": 9, "ties": 0, "points": 18 },
+      { "rank": 6, "team": "金湯", "games": 18, "wins": 7, "losses": 10, "ties": 1, "points": 15 },
+      { "rank": 7, "team": "奧斯卡B", "games": 18, "wins": 4, "losses": 13, "ties": 1, "points": 9 },
+      { "rank": 8, "team": "伯斯", "games": 18, "wins": 3, "losses": 14, "ties": 1, "points": 7 },
+      { "rank": 9, "team": "五光米克斯", "games": 18, "wins": 2, "losses": 16, "ties": 0, "points": 4 }
+    ],
+    "B": [
+      { "rank": 1, "team": "安穆", "games": 18, "wins": 16, "losses": 1, "ties": 1, "points": 33 },
+      { "rank": 2, "team": "班姆行銷", "games": 18, "wins": 14, "losses": 4, "ties": 0, "points": 28 },
+      { "rank": 3, "team": "紅不讓", "games": 18, "wins": 14, "losses": 4, "ties": 0, "points": 28 },
+      { "rank": 4, "team": "阿跨面", "games": 18, "wins": 13, "losses": 5, "ties": 0, "points": 26 },
+      { "rank": 5, "team": "冰研A", "games": 18, "wins": 13, "losses": 5, "ties": 0, "points": 26 },
+      { "rank": 6, "team": "鵬運鷹架", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 7, "team": "星辰", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 8, "team": "猿人B", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 9, "team": "玉山", "games": 18, "wins": 10, "losses": 8, "ties": 0, "points": 20 },
+      { "rank": 10, "team": "翔陽虎", "games": 18, "wins": 9, "losses": 9, "ties": 0, "points": 18 },
+      { "rank": 11, "team": "達陽", "games": 18, "wins": 9, "losses": 9, "ties": 0, "points": 18 },
+      { "rank": 12, "team": "萬興火牛", "games": 18, "wins": 8, "losses": 8, "ties": 2, "points": 18 },
+      { "rank": 13, "team": "金湯", "games": 18, "wins": 7, "losses": 10, "ties": 1, "points": 15 },
+      { "rank": 14, "team": "熱血", "games": 18, "wins": 6, "losses": 12, "ties": 0, "points": 12 },
+      { "rank": 15, "team": "攻城獅", "games": 18, "wins": 5, "losses": 12, "ties": 1, "points": 11 },
+      { "rank": 16, "team": "奧斯卡B", "games": 18, "wins": 4, "losses": 13, "ties": 1, "points": 9 },
+      { "rank": 17, "team": "神川龍", "games": 18, "wins": 4, "losses": 13, "ties": 1, "points": 9 },
+      { "rank": 18, "team": "伯斯", "games": 18, "wins": 3, "losses": 14, "ties": 1, "points": 7 },
+      { "rank": 19, "team": "五光米克斯", "games": 18, "wins": 2, "losses": 16, "ties": 0, "points": 4 }
+    ]
+  },
+  "games": [
+    { "date": "114/04/13", "gameNo": "1", "visitorTeam": "萬興火牛", "visitorScore": "9", "homeTeam": "玉山", "homeScore": "3", "winningPitcher": "粘毓麟" },
+    { "date": "114/04/27", "gameNo": "2", "visitorTeam": "伯斯", "visitorScore": "0", "homeTeam": "萬興火牛", "homeScore": "10", "winningPitcher": "陳柏睿" },
+    { "date": "114/05/04", "gameNo": "3", "visitorTeam": "萬興火牛", "visitorScore": "5", "homeTeam": "星辰", "homeScore": "2", "winningPitcher": "粘毓麟" },
+    { "date": "114/06/29", "gameNo": "4", "visitorTeam": "達陽", "visitorScore": "19", "homeTeam": "萬興火牛", "homeScore": "3", "winningPitcher": "" },
+    { "date": "114/08/10", "gameNo": "5", "visitorTeam": "萬興火牛", "visitorScore": "6", "homeTeam": "班姆行銷", "homeScore": "7", "winningPitcher": "" },
+    { "date": "114/08/24", "gameNo": "6", "visitorTeam": "神川龍", "visitorScore": "2", "homeTeam": "萬興火牛", "homeScore": "9", "winningPitcher": "高睿謙" },
+    { "date": "114/08/31", "gameNo": "7", "visitorTeam": "安穆", "visitorScore": "6", "homeTeam": "萬興火牛", "homeScore": "6", "winningPitcher": "" },
+    { "date": "114/11/02", "gameNo": "8", "visitorTeam": "鵬運鷹架", "visitorScore": "7", "homeTeam": "萬興火牛", "homeScore": "6", "winningPitcher": "" },
+    { "date": "114/11/09", "gameNo": "9", "visitorTeam": "萬興火牛", "visitorScore": "3", "homeTeam": "金湯", "homeScore": "3", "winningPitcher": "" },
+    { "date": "114/11/30", "gameNo": "10", "visitorTeam": "阿跨面", "visitorScore": "18", "homeTeam": "萬興火牛", "homeScore": "3", "winningPitcher": "" },
+    { "date": "114/12/21", "gameNo": "11", "visitorTeam": "萬興火牛", "visitorScore": "16", "homeTeam": "奧斯卡B", "homeScore": "2", "winningPitcher": "謝凱群" },
+    { "date": "114/12/28", "gameNo": "12", "visitorTeam": "萬興火牛", "visitorScore": "7", "homeTeam": "翔陽虎", "homeScore": "8", "winningPitcher": "" },
+    { "date": "115/01/25", "gameNo": "13", "visitorTeam": "紅不讓", "visitorScore": "11", "homeTeam": "萬興火牛", "homeScore": "3", "winningPitcher": "" },
+    { "date": "115/02/01", "gameNo": "14", "visitorTeam": "萬興火牛", "visitorScore": "10", "homeTeam": "五光米克斯", "homeScore": "2", "winningPitcher": "張右勝" },
+    { "date": "115/03/08", "gameNo": "15", "visitorTeam": "萬興火牛", "visitorScore": "19", "homeTeam": "攻城獅", "homeScore": "2", "winningPitcher": "張右勝" },
+    { "date": "115/03/22", "gameNo": "16", "visitorTeam": "萬興火牛", "visitorScore": "3", "homeTeam": "猿人B", "homeScore": "6", "winningPitcher": "" },
+    { "date": "115/03/29", "gameNo": "17", "visitorTeam": "熱血", "visitorScore": "2", "homeTeam": "萬興火牛", "homeScore": "3", "winningPitcher": "粘毓麟" },
+    { "date": "115/04/05", "gameNo": "18", "visitorTeam": "冰研A", "visitorScore": "8", "homeTeam": "萬興火牛", "homeScore": "6", "winningPitcher": "" },
+    { "date": "115/04/19", "gameNo": "排名賽", "visitorTeam": "萬興火牛", "visitorScore": "7", "homeTeam": "玉山", "homeScore": "3", "winningPitcher": "陳柏睿" },
+    { "date": "115/05/03", "gameNo": "排名賽", "visitorTeam": "達陽", "visitorScore": "12", "homeTeam": "萬興火牛", "homeScore": "3", "winningPitcher": "" }
+  ]
+}
